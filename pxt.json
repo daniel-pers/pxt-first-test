@@ -14,5 +14,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "additionalFilePaths": [],
+    "installedVersion": "workspace:ae3709fb-aabe-41df-e535-25b4e315cefa"
 }
